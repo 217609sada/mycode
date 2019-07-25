@@ -1,0 +1,15 @@
+export OS_AUTH_URL=abc
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=epsilon
+export OS_AUTH_URL=iowa
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=epsilon
+export OS_PROJECT_DOMAIN_NAME=insurance
+export OS_USER_NAME=bob
+export OS_AUTH_URL=iowa
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=epsilon
+export OS_PROJECT_DOMAIN_NAME=ins
+export OS_USER_NAME=bob
+export OS_USER_DOMAIN=hnw
+export OS_PASSWORD=ppp123
